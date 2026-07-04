@@ -31,3 +31,4 @@ To compile and run this project, you need a C++ compiler (like GCC/MinGW) or an 
 ## 👤 Author
 
 * Created by **Blukerek13** (04.07.2026)
+* Made in the country
