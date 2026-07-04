@@ -15,7 +15,7 @@ A simple, interactive command-line application built in C++ that features a basi
 ## 🛠️ Built With
 
 * **Language:** C++
-* **IDE:** Visual Studio 2022 / Community
+* **IDE:** Visual Studio 2026 / Community
 
 ## 💻 How to Run
 
